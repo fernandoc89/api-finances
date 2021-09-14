@@ -1,6 +1,10 @@
 ## API Finances 
 
+<<<<<<< HEAD
 - API para controle financeiro com rotas POST, GET, PUT e DELETE
+=======
+- API para controle financeiro. 
+>>>>>>> branch-novo
 
 ## Requisitos
 
