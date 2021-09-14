@@ -1,6 +1,6 @@
 ## API Finances 
 
-- API para controle financeiro.
+- API para controle financeiro com rotas POST, GET, PUT e DELETE
 
 ## Requisitos
 
