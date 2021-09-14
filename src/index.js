@@ -6,7 +6,6 @@ const app = express();
 app.use(express.json());
 const customers = [];
 
-// Middleware
 function verifyIfExistsAccountCPF(request, response, next) {
   const { cpf } = request.headers;
 
